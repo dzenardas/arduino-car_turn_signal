@@ -15,3 +15,7 @@ This project simulates a car turn signal using Arduino Uno R3 and other componen
 3. Press the left or right button to start the signal, press it again to stop;
 4. Press the set button to change the speed and the tone;
 5. Press restart button built-in Arduino Uno R3 board - the last setting is still the same.
+
+# Files
+- car_turn_signal.ino - full project (Arduino) code
+- documentation.pdf - brief note (design, timer config, ISR roles, EEPROM layout, wiring/schematic, timing budget, test results, known issues)
